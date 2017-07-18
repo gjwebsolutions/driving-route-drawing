@@ -1,0 +1,21 @@
+.App {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+.Map{
+  text-align: center;
+  height: 700px;
+  margin-top: 40px;
+}
+.App-header {
+  background-color: #fff;
+  padding: 20px;
+  color: #f16622;
+  float: left;
+}
+.Warning {
+  color: #f00;
+}
+.App-intro {
+  font-size: large;
+}
