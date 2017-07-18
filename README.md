@@ -5,7 +5,8 @@ To run the program:
 2. yarn start
 
 To build the program to production use:
-yarn build
+1. yarn install
+2. yarn build
 
 ## Notes
 - React (without Redux) is used 
