@@ -4,7 +4,7 @@ To run the program:
 1. yarn install
 2. yarn start
 
-To build the program to production use:
+To build the program for production use:
 1. yarn install
 2. yarn build
 
